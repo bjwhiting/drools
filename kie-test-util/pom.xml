@@ -15,6 +15,7 @@
   <!-- IMPORTANT! This module should only be added as a "test" scoped dependency. -->
 
   <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.module.name>org.kie.testutil</java.module.name>
   </properties>
 
