@@ -1,7 +1,4 @@
 # Default to ascii unless otherwise specified
-
-* text=auto
-*.json text eol=crlf
 *                git-encoding=iso8859-1 zos-working-tree-encoding=utf-8
 # The git attributes and ignore files MUST be ASCII
 *.gitattributes  zos-working-tree-encoding=iso8859-1 git-encoding=iso8859-1
